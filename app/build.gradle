@@ -16,12 +16,6 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
 
-        /*devtanks {
-            resValue "string", "app_name", "RXLoginDev"
-        }
-        debug {
-            resValue "string", "app_name", "RXLoginDebug"
-        }*/
     }
 
     packagingOptions {

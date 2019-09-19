@@ -21,5 +21,4 @@ public abstract class BaseFragment extends Fragment {
         super.onDestroy();
         compositeSubscription.unsubscribe();
     }
-    // region
 }
